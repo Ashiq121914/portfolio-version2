@@ -41,8 +41,8 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 - **Email:** ashiq121914@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/gazi-ashiq-reza/)
-- **GitHub:** [Your GitHub Profile](https://github.com/Ashiq121914)
+- **LinkedIn:** [Link](https://www.linkedin.com/in/gazi-ashiq-reza/)
+- **GitHub:** [Link](https://github.com/Ashiq121914)
 
 ---
 
