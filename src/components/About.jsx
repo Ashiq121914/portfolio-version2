@@ -12,7 +12,7 @@ const About = () => {
   return (
     <section id="about" className="section">
       <div className="container">
-        <div className="bg-zinc-800/50 rounded-2xl md:p-12 p-6">
+        <div className="bg-zinc-800/50 rounded-2xl md:p-12 p-7 reveal-up">
           <p className="text-zinc-300 mb-4 md:mb-8 md:text-xl md:max-w-[60ch]">
             Hello! I&apos;m Ashiq, a professional MERN stack developer and web
             designer dedicated to crafting visually captivating and highly

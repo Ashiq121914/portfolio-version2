@@ -46,7 +46,7 @@ const ReviewCard = ({ content, name, imgSrc, company }) => {
   );
 };
 
-ReviewCard.PropTypes = {
+ReviewCard.propTypes = {
   content: PropTypes.string.isRequired,
   name: PropTypes.string.isRequired,
   imgSrc: PropTypes.string.isRequired,
