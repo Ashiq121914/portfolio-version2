@@ -2,7 +2,7 @@
 import PropTypes from "prop-types";
 
 // primary button
-const ButtonPrimary = ({ href, target = "_self", label, icon, classes }) => {
+const ButtonPrimary = ({ href, target = "_blank", label, icon, classes }) => {
   if (href) {
     return (
       <a href={href} target={target} className={"btn btn-primary " + classes}>
