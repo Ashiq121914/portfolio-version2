@@ -2,10 +2,52 @@ import ProjectCard from "./ProjectCard";
 
 const works = [
   {
-    imgSrc: "/images/project-1.jpg",
-    title: "Food ordering app",
+    imgSrc: "/images/resturent.png",
+    title: "Restaurant app",
     tags: ["API", "Development"],
-    projectLink: "https://tasty-dash.vercel.app/",
+    projectLink: "https://resturent-template-ia.netlify.app/",
+  },
+  {
+    imgSrc: "/images/portfolio.png",
+    title: "Portfolio app",
+    tags: ["API", "Development"],
+    projectLink: "https://portfolio-template-ia.netlify.app/",
+  },
+  {
+    imgSrc: "/images/blog.png",
+    title: "Blog app",
+    tags: ["API", "Development"],
+    projectLink: "https://blog.darbesh.com/",
+  },
+  {
+    imgSrc: "/images/resort.png",
+    title: "Resort  app",
+    tags: ["API", "Development"],
+    projectLink: "https://royal-resort-site.netlify.app/",
+  },
+  {
+    imgSrc: "/images/medical.png",
+    title: "Medical app",
+    tags: ["API", "Development"],
+    projectLink: "https://medicale-template.vercel.app/",
+  },
+  {
+    imgSrc: "/images/health.png",
+    title: "Health app",
+    tags: ["API", "Development"],
+    projectLink: "https://gocorona-landing-page-figma-to-react.vercel.app/",
+  },
+  {
+    imgSrc: "/images/services.png",
+    title: "Services app",
+    tags: ["API", "Development"],
+    projectLink: "https://company-website-blue-nu.vercel.app/",
+  },
+  {
+    imgSrc: "/images/link.png",
+    title: "Link Share app",
+    tags: ["API", "Development"],
+    projectLink: "https://link-share-ia.netlify.app/",
   },
   {
     imgSrc: "/images/project-2.jpg",
